@@ -1,7 +1,4 @@
 # Shopping product catalogue - simple
-
-[![Build Status](https://travis-ci.org/kishaningithub/hugo-shopping-product-catalogue-simple.svg?branch=master)](https://travis-ci.org/kishaningithub/hugo-shopping-product-catalogue-simple)
-
 Shopping product catalogue theme gives you a categorized display of all your products that you want to showcase to your prospective customers.
 
 ![screenshot](https://raw.githubusercontent.com/kishaningithub/hugo-shopping-product-catalogue-simple/master/images/screenshot.png)
